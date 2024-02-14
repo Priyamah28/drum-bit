@@ -1,2 +1,2 @@
-Creat differenr sound when clicked to different boxes.
+Create different sound when clicked on different boxes.
 ![Uploading Screenshot (5).png…]()
